@@ -1,1 +1,1 @@
-insert into user(username, first_name, last_name, created_date) values ('danveloper', 'Dan', 'Woods', now())
+insert into user(user_name, first_name, last_name, created_date,is_active) values ('danveloper', 'Dan', 'Woods', now(), true)
